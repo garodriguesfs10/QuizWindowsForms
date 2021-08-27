@@ -1,0 +1,11 @@
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\bin\Debug\QuizWinForms.exe.config
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\bin\Debug\QuizWinForms.exe
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\bin\Debug\QuizWinForms.pdb
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.csproj.AssemblyReference.cache
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.Form1.resources
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.Properties.Resources.resources
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.csproj.GenerateResource.cache
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.csproj.CoreCompileInputs.cache
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.exe
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.pdb
+C:\CSharp\WINDOWS-FORMS\QuizWinForms\QuizWinForms\obj\Debug\QuizWinForms.FormPerguntas.resources
